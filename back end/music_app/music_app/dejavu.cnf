@@ -1,0 +1,9 @@
+{
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "12345",
+        "database": "dejavu_db"
+    },
+    "fingerprint_limit": -1
+}
